@@ -1,0 +1,11 @@
+[
+server
+]
+maxUploadSize = 50
+enableCORS = false
+
+[
+theme
+]
+primaryColor = "#d9880c"
+backgroundColor = "#f4f6fb"
